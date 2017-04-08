@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compembatible" content="IE=edge">
+  <title>eventyay</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+<meta name="open-event-frontend/config/environment" content="%7B%22appName%22%3A%22eventyay%22%2C%22modulePrefix%22%3A%22open-event-frontend%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22/%22%2C%22locationType%22%3A%22auto%22%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%7D%2C%22APP%22%3A%7B%22apiHost%22%3A%22https%3A//eventyay.com%22%2C%22apiNamespace%22%3A%22api/v1%22%2C%22name%22%3A%22open-event-frontend%22%2C%22version%22%3A%221.0.0+4a2506ba%22%7D%2C%22contentSecurityPolicy%22%3A%7B%22connect-src%22%3A%22*%22%2C%22script-src%22%3A%22*%20%27unsafe-inline%27%22%2C%22default-src%22%3A%22%27none%27%22%2C%22font-src%22%3A%22%27self%27%20data%3A%20https%3A//fonts.gstatic.com%22%2C%22img-src%22%3A%22*%20data%3A%22%2C%22style-src%22%3A%22%27self%27%20%27unsafe-inline%27%20https%3A//fonts.googleapis.com%22%2C%22frame-src%22%3A%22*%22%2C%22media-src%22%3A%22%27none%27%22%7D%2C%22ember-simple-auth%22%3A%7B%22authorizer%22%3A%22authorizer%3Ajwt%22%7D%2C%22ember-simple-auth-token%22%3A%7B%22refreshAccessTokens%22%3Afalse%2C%22serverTokenEndpoint%22%3A%22https%3A//eventyay.com/api/v1/login%22%2C%22identificationField%22%3A%22email%22%2C%22passwordField%22%3A%22password%22%2C%22tokenPropertyName%22%3A%22access_token%22%2C%22refreshTokenPropertyName%22%3A%22refresh_token%22%2C%22authorizationPrefix%22%3A%22JWT%20%22%2C%22authorizationHeaderName%22%3A%22Authorization%22%2C%22headers%22%3A%7B%7D%7D%2C%22contentSecurityPolicyHeader%22%3A%22Content-Security-Policy-Report-Only%22%2C%22exportApplicationGlobal%22%3Afalse%7D" />
+
+  <link rel="stylesheet" href="/assets/vendor-350372c2386638283e11f71345558a71.css" integrity="sha256-xG/EzSxIHWT97QIedMXg8tn3vhHvXSRP/NkAfMaTkb8= sha512-vgE2wNsHgLNIYczUdDG29G71PgZlCnqgammVn6EBPJYP0M2lDGWZlzw1B6PmzsUimM/b4maCTopydbEzuopqzg==" >
+  <link rel="stylesheet" href="/assets/open-event-frontend-47b582a5bd58e8de51a815b32680d9a5.css" integrity="sha256-3EG+i6Mihiofkqw4M5FMggoBfxBZewi36+NTL5+uH1Y= sha512-N7N7doPVVTbEeXLHvcO+CP24p/zoAIp7ZACp7Z1ycCXzhs/x+WfZqBPE+SDECFggR9ijbgEhLNe+LXw5XtphGw==" >
+
+  
+</head>
+<body>
+
+        <div id="app-update-notification" class="paper-snackbar">
+          A new version of eventyay is available.
+          <button class="action" onclick="window.location.reload();">Update now</button>
+        </div>
+        <script type='text/javascript'>
+          window.addEventListener('load', function () {
+            window.applicationCache.addEventListener('updateready', function (e) {
+              if (window.applicationCache.status === window.applicationCache.UPDATEREADY) {
+                window.applicationCache.swapCache();
+                const notificationContainer = document.getElementById('app-update-notification');
+                notificationContainer.style.opacity = 1;
+                notificationContainer.style.bottom = 0;
+              }
+            }, false);
+          }, false);
+        </script>
+      
+
+
+<script src="/assets/vendor-635231cf3e1082e9d50cfc41e36d6b93.js" integrity="sha256-+7Ox7e7vPtS/96YI98DP0+j4Gj3yfX5oomit7/yIFvI= sha512-GOh+QAkpvwUrE9UV42kPQijlhL+j0/XAvOUmLbf36d/XDwfMNe9GreUhYH6YgckRoWZLzyiRBNUxZkPNdTvHRA==" ></script>
+<script src="/assets/open-event-frontend-f82d1237c7e1a4d3493aa828c83c1523.js" integrity="sha256-G6vWOjnd33Yr43PGgkZ0uc6POXHaH1iGQmDmgBKb5qo= sha512-9Qb8ofyRRw4yuS5JkMu8jTDLF45GC04XlFkZDF5/HUfR0g6/IrrwW8hr9kNbmx4ASKvWxhF+SsAYJZFjLPdk2g==" ></script>
+
+
+</body>
+</html>
