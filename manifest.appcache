@@ -1,10 +1,10 @@
 CACHE MANIFEST
-# version a732fac67df986988dde24cc5830f0e9
+# version ff2f3e70f57e7ac76a05814000372ded
 
 CACHE:
 /404.html
 /assets/open-event-frontend-47b582a5bd58e8de51a815b32680d9a5.css
-/assets/open-event-frontend-f82d1237c7e1a4d3493aa828c83c1523.js
+/assets/open-event-frontend-c00cb09b95df48c04514f6d580e8b996.js
 /assets/themes/default/assets/fonts/icons.eot
 /assets/themes/default/assets/fonts/icons.otf
 /assets/themes/default/assets/fonts/icons.svg
@@ -13,7 +13,7 @@ CACHE:
 /assets/themes/default/assets/fonts/icons.woff2
 /assets/themes/default/assets/images/flags-9c74e172f87984c48ddf5c8108cabe67.png
 /assets/vendor-350372c2386638283e11f71345558a71.css
-/assets/vendor-635231cf3e1082e9d50cfc41e36d6b93.js
+/assets/vendor-d4198d7d2c223a579fefb39a6141169f.js
 /CNAME
 /crossdomain.xml
 /favicon.ico
