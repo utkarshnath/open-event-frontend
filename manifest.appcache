@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# version bd23b6b94e8bbcf0a4da0af5f4d17401
+# version 2baadb23801794a0535cede781bbbb03
 
 CACHE:
 /404.html
@@ -119,8 +119,8 @@ CACHE:
 /assets/moment-locales/zh-cn-0c308476c3b5fabcfc98b41db7eb416e.js
 /assets/moment-locales/zh-hk-8d711275d8c996b2dff6d26d92502a94.js
 /assets/moment-locales/zh-tw-2214c1e12c8c66f796d5c4ead8d1e4be.js
-/assets/open-event-frontend-5570c41c1dea42b2d8a13b6dde7f0068.js
 /assets/open-event-frontend-8782e169b47d932df2b2d764db90c235.css
+/assets/open-event-frontend-bac552fa0d6428be6ea53ae5ec71f9be.js
 /assets/themes/default/assets/fonts/icons.eot
 /assets/themes/default/assets/fonts/icons.otf
 /assets/themes/default/assets/fonts/icons.svg
