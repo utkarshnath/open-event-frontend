@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# version 9311b4e97a76657b40d8dd18e2c5e7e3
+# version 9671b7eb18dcb146e5cb0ac7ca394759
 
 CACHE:
 /404.html
@@ -119,8 +119,8 @@ CACHE:
 /assets/moment-locales/zh-cn-0c308476c3b5fabcfc98b41db7eb416e.js
 /assets/moment-locales/zh-hk-8d711275d8c996b2dff6d26d92502a94.js
 /assets/moment-locales/zh-tw-2214c1e12c8c66f796d5c4ead8d1e4be.js
-/assets/open-event-frontend-4729919094e3522afa155128d05a9c39.js
-/assets/open-event-frontend-6e1c2b949e1a590834d24fa8d1f29d70.css
+/assets/open-event-frontend-818623bc790ebbbbf383da6020d66caa.js
+/assets/open-event-frontend-8782e169b47d932df2b2d764db90c235.css
 /assets/themes/default/assets/fonts/icons.eot
 /assets/themes/default/assets/fonts/icons.otf
 /assets/themes/default/assets/fonts/icons.svg
@@ -128,8 +128,8 @@ CACHE:
 /assets/themes/default/assets/fonts/icons.woff
 /assets/themes/default/assets/fonts/icons.woff2
 /assets/themes/default/assets/images/flags-9c74e172f87984c48ddf5c8108cabe67.png
-/assets/vendor-92ae56473137c723fd79e156213773af.js
-/assets/vendor-f1286b07246f3732c8ea0329a67d1e84.css
+/assets/vendor-11d7b1285884af5414a6911eca0e3e00.js
+/assets/vendor-3afb91c7dad88f32db2df31e4697756d.css
 /CNAME
 /crossdomain.xml
 /favicon.ico
